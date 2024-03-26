@@ -1,12 +1,14 @@
+# -*- coding: utf-8 -*-
 # ---
 # jupyter:
 #   jupytext:
+#     custom_cell_magics: kql
 #     formats: ipynb,py:percent
 #     text_representation:
 #       extension: .py
 #       format_name: percent
 #       format_version: '1.3'
-#       jupytext_version: 1.16.1
+#       jupytext_version: 1.11.2
 #   kernelspec:
 #     display_name: Python 3 (ipykernel)
 #     language: python
@@ -49,3 +51,9 @@ print(f"Logistic Regression Report:\n{lr_report}")
 
 # %%
 print("hello, world")
+print("new line")
+
+# %% [markdown]
+# # test markdown cell
+#
+# 新しいマークダウンセル。どう見えるんだろう
